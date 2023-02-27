@@ -94,6 +94,11 @@ body{
   font-weight: 300;
 
 }
+.contacto ul li a{
+  color: rgb(57, 54, 50);
+  font-weight: 300;
+  text-decoration: none;
+}
 .contacto.educacion li{
   margin-bottom: 15px;
 }
